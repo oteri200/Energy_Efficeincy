@@ -7,6 +7,7 @@ Dataset
 
 Workflow
 
+Tableau
 
 Organisation
 
@@ -61,6 +62,9 @@ y2 Cooling Load
 4) The dataset was later splited into train and test sets to validate the spot checked results and also check for feature importance.
 
 5) Grid search and Recursive Feature Elimination  was using in improving the results of the best performing. 
+
+### Tableau.
+Visual representation was done on tableau [https://public.tableau.com/profile/emmanuel.ayaruja#!/vizhome/EffectofBuildingCharateristicOnEnergyLoad/Dashboard3?publish=yes]
 
 
 ### Organisation
